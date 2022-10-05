@@ -1,10 +1,9 @@
 # import
 import re
 import nltk
+nltk.data.path.append('/app/nltk_data')
 from nltk.stem import WordNetLemmatizer  # lemmatizer
 from nltk.stem import PorterStemmer
-import nltk
-nltk.data.path.append('/app/nltk_data')
 # nltk.download('stopwords')
 from nltk.corpus import stopwords
 
