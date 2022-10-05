@@ -4,5 +4,5 @@ scikit-learn==1.1.1
 numpy
 regex
 nltk
-tensorflow-cpu==2.7.0
+tensorflow==2.7.0
 xgboost==1.6.2
