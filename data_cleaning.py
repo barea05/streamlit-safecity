@@ -3,7 +3,7 @@ import re
 import nltk
 from nltk.stem import WordNetLemmatizer  # lemmatizer
 from nltk.stem import PorterStemmer
-# nltk.download('stopwords')
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 
 
